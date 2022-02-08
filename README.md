@@ -120,7 +120,7 @@ never try to support the high-level feature that Lerna offers, but by
 implementing the core logic of the resolution and linking steps inside
 Yarn itself we hope to enable new usages and improve performance.
 
-### Tips & Tricks [](#toc-tips-tricks){#toc-tips-tricks .toc} {#tips--tricks-}
+### Tips & Tricks
 
 -   The `workspaces` field is an array containing
     the paths to each workspace. Since it might be tedious to keep track
